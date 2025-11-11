@@ -1,6 +1,6 @@
 # Ecommerce recommendation system design using Python on Amazon & Home Depot's dataset
 
-(Please click on the Recommendation System - Paul.ipynb file  to see the detailed application of analytics and its interpretation)
+(Please click on the RecommendSys.ipynb file  to see the detailed application of analytics and its interpretation)
 
 A well developed recommendation system will help businesses improve their shopper's experience on website and result in better customer acquisition and retention.
 
